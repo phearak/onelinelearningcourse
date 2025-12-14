@@ -1,0 +1,647 @@
+[
+  {
+    "id": "quiz_001",
+    "courseId": "course_001",
+    "title": "Flutter Basics Quiz",
+    "titleKh": "កម្រងសំណួរមូលដ្ឋានគ្រឹះ Flutter",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What programming language does Flutter use?",
+        "questionKh": "Flutter ប្រើភាសាកម្មវិធីអ្វី?",
+        "options": ["Java", "Kotlin", "Dart", "Swift"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q2",
+        "question": "Which widget is used for a scrollable list?",
+        "questionKh": "Widget មួយណាត្រូវបានប្រើសម្រាប់បញ្ជីអាចរំកិលបាន?",
+        "options": ["Column", "ListView", "Row", "Container"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "question": "What is the main function in a Flutter app?",
+        "questionKh": "តើមុខងារចម្បងក្នុងកម្មវិធី Flutter គឺជាអ្វី?",
+        "options": ["start()", "main()", "run()", "init()"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q4",
+        "question": "Which widget rebuilds when state changes?",
+        "questionKh": "Widget មួយណាបង្កើតឡើងវិញនៅពេលស្ថានភាពផ្លាស់ប្តូរ?",
+        "options": ["StatelessWidget", "StatefulWidget", "Container", "Text"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q5",
+        "question": "What command creates a new Flutter project?",
+        "questionKh": "ពាក្យបញ្ជាអ្វីបង្កើតគម្រោង Flutter ថ្មី?",
+        "options": ["flutter new", "flutter create", "flutter init", "flutter start"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "quiz_002",
+    "courseId": "course_002",
+    "title": "HTML & CSS Quiz",
+    "titleKh": "កម្រងសំណួរ HTML និង CSS",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does HTML stand for?",
+        "questionKh": "HTML មានន័យថាអ្វី?",
+        "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlinks Text Mark Language"],
+        "correctAnswer": 0
+      },
+      {
+        "id": "q2",
+        "question": "Which CSS property changes text color?",
+        "questionKh": "លក្ខណៈ CSS មួយណាផ្លាស់ប្តូរពណ៌អក្សរ?",
+        "options": ["text-color", "font-color", "color", "text-style"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q3",
+        "question": "What tag is used for the largest heading?",
+        "questionKh": "ស្លាកអ្វីត្រូវបានប្រើសម្រាប់ចំណងជើងធំបំផុត?",
+        "options": ["<heading>", "<h6>", "<h1>", "<head>"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q4",
+        "question": "Which property is used for flexible layouts?",
+        "questionKh": "លក្ខណៈមួយណាត្រូវបានប្រើសម្រាប់ការរៀបចំដែលអាចបត់បែនបាន?",
+        "options": ["display: block", "display: flex", "display: inline", "display: grid"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q5",
+        "question": "What does CSS stand for?",
+        "questionKh": "CSS មានន័យថាអ្វី?",
+        "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style System", "Colorful Style Sheets"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "quiz_003",
+    "courseId": "course_003",
+    "title": "Python Data Science Quiz",
+    "titleKh": "កម្រងសំណួរ Python Data Science",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Which library is used for data manipulation?",
+        "questionKh": "បណ្ណាល័យមួយណាត្រូវបានប្រើសម្រាប់ការរៀបចំទិន្នន័យ?",
+        "options": ["NumPy", "Pandas", "Matplotlib", "Scikit-learn"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "question": "What is a DataFrame in Pandas?",
+        "questionKh": "តើ DataFrame ក្នុង Pandas គឺជាអ្វី?",
+        "options": ["A single value", "A 1D array", "A 2D table structure", "A chart"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q3",
+        "question": "Which function reads a CSV file in Pandas?",
+        "questionKh": "មុខងារមួយណាអានឯកសារ CSV ក្នុង Pandas?",
+        "options": ["read_csv()", "load_csv()", "import_csv()", "open_csv()"],
+        "correctAnswer": 0
+      },
+      {
+        "id": "q4",
+        "question": "What library is used for numerical computing?",
+        "questionKh": "បណ្ណាល័យមួយណាត្រូវបានប្រើសម្រាប់ការគណនាលេខ?",
+        "options": ["Pandas", "NumPy", "Seaborn", "TensorFlow"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q5",
+        "question": "Which library creates visualizations?",
+        "questionKh": "បណ្ណាល័យមួយណាបង្កើតការបង្ហាញជារូបភាព?",
+        "options": ["NumPy", "Pandas", "Matplotlib", "SciPy"],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "quiz_004",
+    "courseId": "course_004",
+    "title": "JavaScript Essentials Quiz",
+    "titleKh": "កម្រងសំណួរមូលដ្ឋានគ្រឹះ JavaScript",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Which keyword declares a constant variable?",
+        "questionKh": "ពាក្យគន្លឹះមួយណាប្រកាសអថេរថេរ?",
+        "options": ["var", "let", "const", "static"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q2",
+        "question": "What is the correct way to write a comment?",
+        "questionKh": "តើវិធីត្រឹមត្រូវក្នុងការសរសេរមតិយោបល់គឺជាអ្វី?",
+        "options": ["<!-- comment -->", "// comment", "** comment **", "## comment"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "question": "Which method adds an element to an array?",
+        "questionKh": "វិធីសាស្រ្តមួយណាបន្ថែមធាតុទៅអារេ?",
+        "options": ["add()", "push()", "append()", "insert()"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q4",
+        "question": "What does DOM stand for?",
+        "questionKh": "DOM មានន័យថាអ្វី?",
+        "options": ["Document Object Model", "Data Object Model", "Display Object Management", "Document Order Model"],
+        "correctAnswer": 0
+      },
+      {
+        "id": "q5",
+        "question": "Which function outputs to the console?",
+        "questionKh": "មុខងារមួយណាបញ្ចេញទៅកុងសូល?",
+        "options": ["print()", "console.log()", "output()", "display()"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "quiz_005",
+    "courseId": "course_005",
+    "title": "UI/UX Design Quiz",
+    "titleKh": "កម្រងសំណួរការរចនា UI/UX",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does UI stand for?",
+        "questionKh": "UI មានន័យថាអ្វី?",
+        "options": ["User Integration", "User Interface", "Universal Input", "Unified Interaction"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "question": "What does UX stand for?",
+        "questionKh": "UX មានន័យថាអ្វី?",
+        "options": ["User Experience", "Universal Exchange", "User Extension", "Unified Experience"],
+        "correctAnswer": 0
+      },
+      {
+        "id": "q3",
+        "question": "What is a wireframe?",
+        "questionKh": "តើ wireframe គឺជាអ្វី?",
+        "options": ["A final design", "A basic layout sketch", "A color palette", "A font selection"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q4",
+        "question": "Which principle ensures visual balance?",
+        "questionKh": "គោលការណ៍មួយណាធានាតុល្យភាពមើលឃើញ?",
+        "options": ["Contrast", "Alignment", "Symmetry", "Proximity"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q5",
+        "question": "What is a prototype?",
+        "questionKh": "តើគំរូគឺជាអ្វី?",
+        "options": ["Final product", "Interactive mockup", "Color scheme", "Typography guide"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "quiz_006",
+    "courseId": "course_006",
+    "title": "AI & Machine Learning Quiz",
+    "titleKh": "កម្រងសំណួរ AI និង Machine Learning",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is Machine Learning?",
+        "questionKh": "តើ Machine Learning គឺជាអ្វី?",
+        "options": ["A programming language", "A subset of AI that learns from data", "A database system", "A web framework"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "question": "Which algorithm is used for classification?",
+        "questionKh": "ក្បួនដោះស្រាយមួយណាត្រូវបានប្រើសម្រាប់ការចាត់ថ្នាក់?",
+        "options": ["Linear Regression", "K-Means", "Decision Tree", "PCA"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q3",
+        "question": "What is a neural network inspired by?",
+        "questionKh": "បណ្តាញសរសៃប្រសាទត្រូវបានបំផុសគំនិតពីអ្វី?",
+        "options": ["Computer circuits", "Human brain", "Internet", "Databases"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q4",
+        "question": "What does CNN stand for in deep learning?",
+        "questionKh": "CNN មានន័យថាអ្វីក្នុង deep learning?",
+        "options": ["Computer Neural Network", "Convolutional Neural Network", "Connected Node Network", "Central Neuron Node"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q5",
+        "question": "Which library is commonly used for ML in Python?",
+        "questionKh": "បណ្ណាល័យមួយណាត្រូវបានប្រើជាទូទៅសម្រាប់ ML ក្នុង Python?",
+        "options": ["Django", "Flask", "TensorFlow", "NumPy"],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "quiz_007",
+    "courseId": "course_007",
+    "title": "Cybersecurity Quiz",
+    "titleKh": "កម្រងសំណួរសន្តិសុខអ៊ីនធឺណិត",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is phishing?",
+        "questionKh": "តើ phishing គឺជាអ្វី?",
+        "options": ["A type of fish", "A fraudulent attempt to obtain sensitive information", "A network protocol", "A programming technique"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "question": "What does VPN stand for?",
+        "questionKh": "VPN មានន័យថាអ្វី?",
+        "options": ["Virtual Private Network", "Very Protected Network", "Visual Protocol Node", "Verified Public Network"],
+        "correctAnswer": 0
+      },
+      {
+        "id": "q3",
+        "question": "Which is a strong password practice?",
+        "questionKh": "តើការអនុវត្តពាក្យសម្ងាត់ខ្លាំងមួយណា?",
+        "options": ["Using your birthday", "Using 'password123'", "Mix of letters, numbers, and symbols", "Using your name"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q4",
+        "question": "What is a firewall?",
+        "questionKh": "តើ firewall គឺជាអ្វី?",
+        "options": ["A physical wall", "Network security system", "A type of virus", "An email service"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q5",
+        "question": "What is encryption?",
+        "questionKh": "តើការអ៊ិនគ្រីបគឺជាអ្វី?",
+        "options": ["Deleting data", "Converting data into a coded format", "Compressing files", "Backing up data"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "quiz_008",
+    "courseId": "course_008",
+    "title": "Data Science & Analytics Quiz",
+    "titleKh": "កម្រងសំណួរវិទ្យាសាស្ត្រទិន្នន័យ",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is the first step in data science?",
+        "questionKh": "តើជំហានដំបូងក្នុងវិទ្យាសាស្ត្រទិន្នន័យគឺជាអ្វី?",
+        "options": ["Model building", "Data collection", "Deployment", "Visualization"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "question": "Which tool is used for data visualization?",
+        "questionKh": "ឧបករណ៍មួយណាត្រូវបានប្រើសម្រាប់ការបង្ហាញទិន្នន័យ?",
+        "options": ["TensorFlow", "Tableau", "Docker", "Git"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "question": "What is a DataFrame?",
+        "questionKh": "តើ DataFrame គឺជាអ្វី?",
+        "options": ["A picture frame", "A 2D data structure", "A database", "A chart type"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q4",
+        "question": "What does EDA stand for?",
+        "questionKh": "EDA មានន័យថាអ្វី?",
+        "options": ["Electronic Data Analysis", "Exploratory Data Analysis", "Extended Data Application", "External Data Access"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q5",
+        "question": "Which is a supervised learning technique?",
+        "questionKh": "តើបច្ចេកទេសការរៀនដែលមានការត្រួតពិនិត្យមួយណា?",
+        "options": ["Clustering", "Regression", "Dimensionality Reduction", "Association"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "quiz_009",
+    "courseId": "course_009",
+    "title": "Cloud Computing Quiz",
+    "titleKh": "កម្រងសំណួរ Cloud Computing",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does IaaS stand for?",
+        "questionKh": "IaaS មានន័យថាអ្វី?",
+        "options": ["Internet as a Service", "Infrastructure as a Service", "Integration as a Service", "Information as a Service"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "question": "Which is an AWS compute service?",
+        "questionKh": "តើសេវាកម្មគណនា AWS មួយណា?",
+        "options": ["S3", "EC2", "RDS", "CloudFront"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "question": "What is S3 used for?",
+        "questionKh": "S3 ត្រូវបានប្រើសម្រាប់អ្វី?",
+        "options": ["Computing", "Object storage", "Networking", "Database"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q4",
+        "question": "What is cloud scalability?",
+        "questionKh": "តើការពង្រីក cloud គឺជាអ្វី?",
+        "options": ["Fixed resources", "Ability to increase/decrease resources", "Data backup", "Security feature"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q5",
+        "question": "Which is a cloud deployment model?",
+        "questionKh": "តើគំរូដាក់ពង្រាយ cloud មួយណា?",
+        "options": ["Waterfall", "Hybrid cloud", "Agile", "DevOps"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "quiz_010",
+    "courseId": "course_010",
+    "title": "Full-Stack Development Quiz",
+    "titleKh": "កម្រងសំណួរ Full-Stack Development",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is React?",
+        "questionKh": "តើ React គឺជាអ្វី?",
+        "options": ["A database", "A JavaScript library for UI", "A server", "An operating system"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "question": "What does Node.js run on?",
+        "questionKh": "Node.js ដំណើរការលើអ្វី?",
+        "options": ["Browser only", "Server-side JavaScript runtime", "Mobile devices", "Databases"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "question": "What is MongoDB?",
+        "questionKh": "តើ MongoDB គឺជាអ្វី?",
+        "options": ["SQL database", "NoSQL database", "Programming language", "Web server"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q4",
+        "question": "What is REST API?",
+        "questionKh": "តើ REST API គឺជាអ្វី?",
+        "options": ["A database", "Architectural style for web services", "A programming language", "A frontend framework"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q5",
+        "question": "What is JWT used for?",
+        "questionKh": "JWT ត្រូវបានប្រើសម្រាប់អ្វី?",
+        "options": ["Styling", "Authentication", "Database queries", "File storage"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "quiz_011",
+    "courseId": "course_011",
+    "title": "DevOps & SRE Quiz",
+    "titleKh": "កម្រងសំណួរ DevOps និង SRE",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is Docker?",
+        "questionKh": "តើ Docker គឺជាអ្វី?",
+        "options": ["A programming language", "A containerization platform", "A database", "A cloud provider"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "question": "What does CI/CD stand for?",
+        "questionKh": "CI/CD មានន័យថាអ្វី?",
+        "options": ["Computer Integration/Computer Deployment", "Continuous Integration/Continuous Deployment", "Code Inspection/Code Delivery", "Central Infrastructure/Central Data"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "question": "What is Kubernetes used for?",
+        "questionKh": "Kubernetes ត្រូវបានប្រើសម្រាប់អ្វី?",
+        "options": ["Web development", "Container orchestration", "Database management", "Code editing"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q4",
+        "question": "What is Infrastructure as Code?",
+        "questionKh": "តើហេដ្ឋារចនាសម្ព័ន្ធជាកូដគឺជាអ្វី?",
+        "options": ["Writing code for apps", "Managing infrastructure through code", "Building hardware", "Network cabling"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q5",
+        "question": "Which tool is used for monitoring?",
+        "questionKh": "ឧបករណ៍មួយណាត្រូវបានប្រើសម្រាប់ការត្រួតពិនិត្យ?",
+        "options": ["React", "Prometheus", "MongoDB", "Express"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "quiz_012",
+    "courseId": "course_012",
+    "title": "Mobile App Development Quiz",
+    "titleKh": "កម្រងសំណួរការអភិវឌ្ឍន៍កម្មវិធីទូរស័ព្ទ",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is React Native?",
+        "questionKh": "តើ React Native គឺជាអ្វី?",
+        "options": ["A web framework", "A cross-platform mobile framework", "A database", "An operating system"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "question": "Which language does iOS native development use?",
+        "questionKh": "ភាសាមួយណាដែលការអភិវឌ្ឍន៍ iOS native ប្រើ?",
+        "options": ["Java", "Kotlin", "Swift", "Python"],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q3",
+        "question": "What is APK?",
+        "questionKh": "តើ APK គឺជាអ្វី?",
+        "options": ["iOS app file", "Android app package", "A programming language", "A design tool"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q4",
+        "question": "What is hot reload?",
+        "questionKh": "តើ hot reload គឺជាអ្វី?",
+        "options": ["Restarting the phone", "Instant code updates without restart", "Deleting the app", "Installing updates"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q5",
+        "question": "Which store hosts Android apps?",
+        "questionKh": "ហាងមួយណាផ្ទុកកម្មវិធី Android?",
+        "options": ["App Store", "Google Play Store", "Microsoft Store", "Amazon"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "quiz_013",
+    "courseId": "course_013",
+    "title": "Advanced UI/UX Design Quiz",
+    "titleKh": "កម្រងសំណួរការរចនា UI/UX កម្រិតខ្ពស់",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is a design system?",
+        "questionKh": "តើប្រព័ន្ធរចនាគឺជាអ្វី?",
+        "options": ["A single design", "A collection of reusable components", "A color", "A font"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "question": "What is Figma?",
+        "questionKh": "តើ Figma គឺជាអ្វី?",
+        "options": ["A programming language", "A collaborative design tool", "A database", "A web browser"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "question": "What is user persona?",
+        "questionKh": "តើ user persona គឺជាអ្វី?",
+        "options": ["A real user", "A fictional representation of target user", "A design element", "A color scheme"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q4",
+        "question": "What is A/B testing?",
+        "questionKh": "តើ A/B testing គឺជាអ្វី?",
+        "options": ["Testing two versions", "Testing alphabets", "Testing colors", "Testing fonts"],
+        "correctAnswer": 0
+      },
+      {
+        "id": "q5",
+        "question": "What is accessibility in design?",
+        "questionKh": "តើភាពងាយស្រួលចូលប្រើក្នុងការរចនាគឺជាអ្វី?",
+        "options": ["Making designs pretty", "Making designs usable for everyone", "Making designs colorful", "Making designs simple"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "quiz_014",
+    "courseId": "course_014",
+    "title": "Blockchain Technology Quiz",
+    "titleKh": "កម្រងសំណួរបច្ចេកវិទ្យា Blockchain",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is a blockchain?",
+        "questionKh": "តើ blockchain គឺជាអ្វី?",
+        "options": ["A type of database", "A distributed ledger technology", "A programming language", "A social network"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "question": "What is a smart contract?",
+        "questionKh": "តើ smart contract គឺជាអ្វី?",
+        "options": ["A legal document", "Self-executing code on blockchain", "A mobile app", "An email"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "question": "What is Ethereum?",
+        "questionKh": "តើ Ethereum គឺជាអ្វី?",
+        "options": ["A cryptocurrency only", "A blockchain platform for smart contracts", "A company", "A database"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q4",
+        "question": "What does NFT stand for?",
+        "questionKh": "NFT មានន័យថាអ្វី?",
+        "options": ["New File Type", "Non-Fungible Token", "Network File Transfer", "National Finance Technology"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q5",
+        "question": "What is DeFi?",
+        "questionKh": "តើ DeFi គឺជាអ្វី?",
+        "options": ["Default Finance", "Decentralized Finance", "Digital Finance", "Defined Finance"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "quiz_015",
+    "courseId": "course_015",
+    "title": "IT Project Management Quiz",
+    "titleKh": "កម្រងសំណួរការគ្រប់គ្រងគម្រោង IT",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is Agile methodology?",
+        "questionKh": "តើវិធីសាស្រ្ត Agile គឺជាអ្វី?",
+        "options": ["A programming language", "An iterative project management approach", "A database", "A design tool"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q2",
+        "question": "What is a Sprint in Scrum?",
+        "questionKh": "តើ Sprint ក្នុង Scrum គឺជាអ្វី?",
+        "options": ["A race", "A time-boxed iteration", "A meeting", "A document"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q3",
+        "question": "What does ITIL stand for?",
+        "questionKh": "ITIL មានន័យថាអ្វី?",
+        "options": ["IT Infrastructure Library", "Internet Technology Integration Layer", "Information Technology Innovation Lab", "IT Implementation List"],
+        "correctAnswer": 0
+      },
+      {
+        "id": "q4",
+        "question": "What is a Gantt chart?",
+        "questionKh": "តើ Gantt chart គឺជាអ្វី?",
+        "options": ["A pie chart", "A project schedule visualization", "A flow chart", "A bar graph"],
+        "correctAnswer": 1
+      },
+      {
+        "id": "q5",
+        "question": "What is risk mitigation?",
+        "questionKh": "តើការកាត់បន្ថយហានិភ័យគឺជាអ្វី?",
+        "options": ["Ignoring risks", "Reducing the impact of risks", "Creating risks", "Documenting risks"],
+        "correctAnswer": 1
+      }
+    ]
+  }
+]

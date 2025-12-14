@@ -1,0 +1,782 @@
+[
+  {
+    "id": "lesson_001",
+    "courseId": "course_001",
+    "title": "Introduction to Flutter",
+    "titleKh": "ការណែនាំអំពី Flutter",
+    "description": "Get started with Flutter and understand its architecture.",
+    "youtubeVideoId": "1ukSR1GRtMU",
+    "duration": "15:30",
+    "order": 1
+  },
+  {
+    "id": "lesson_002",
+    "courseId": "course_001",
+    "title": "Setting Up Development Environment",
+    "titleKh": "ការដំឡើងបរិស្ថានអភិវឌ្ឍន៍",
+    "description": "Install Flutter SDK and set up your IDE for development.",
+    "youtubeVideoId": "VPvVD8t02U8",
+    "duration": "20:45",
+    "order": 2
+  },
+  {
+    "id": "lesson_003",
+    "courseId": "course_001",
+    "title": "Understanding Widgets",
+    "titleKh": "ការយល់ដឹងអំពី Widgets",
+    "description": "Learn about stateless and stateful widgets in Flutter.",
+    "youtubeVideoId": "b_sQ9bMltGU",
+    "duration": "25:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_004",
+    "courseId": "course_001",
+    "title": "Building Layouts",
+    "titleKh": "ការបង្កើត Layouts",
+    "description": "Master Flutter layouts with Row, Column, and Stack widgets.",
+    "youtubeVideoId": "RJEnTRBxaSg",
+    "duration": "30:15",
+    "order": 4
+  },
+  {
+    "id": "lesson_005",
+    "courseId": "course_001",
+    "title": "State Management Basics",
+    "titleKh": "មូលដ្ឋានគ្រឹះនៃការគ្រប់គ្រងស្ថានភាព",
+    "description": "Introduction to state management in Flutter applications.",
+    "youtubeVideoId": "d_m5csmrf7I",
+    "duration": "35:00",
+    "order": 5
+  },
+  {
+    "id": "lesson_006",
+    "courseId": "course_002",
+    "title": "HTML Basics",
+    "titleKh": "មូលដ្ឋានគ្រឹះ HTML",
+    "description": "Learn the fundamental HTML tags and structure.",
+    "youtubeVideoId": "qz0aGYrrlhU",
+    "duration": "18:00",
+    "order": 1
+  },
+  {
+    "id": "lesson_007",
+    "courseId": "course_002",
+    "title": "CSS Styling",
+    "titleKh": "ការរចនាបែប CSS",
+    "description": "Style your web pages with CSS properties.",
+    "youtubeVideoId": "1PnVor36_40",
+    "duration": "22:30",
+    "order": 2
+  },
+  {
+    "id": "lesson_008",
+    "courseId": "course_002",
+    "title": "Flexbox Layout",
+    "titleKh": "ការរៀបចំ Flexbox",
+    "description": "Master CSS Flexbox for responsive layouts.",
+    "youtubeVideoId": "JJSoEo8JSnc",
+    "duration": "28:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_009",
+    "courseId": "course_002",
+    "title": "Responsive Design",
+    "titleKh": "ការរចនាឆ្លើយតប",
+    "description": "Create websites that work on all devices.",
+    "youtubeVideoId": "srvUrASNj0s",
+    "duration": "25:00",
+    "order": 4
+  },
+  {
+    "id": "lesson_010",
+    "courseId": "course_003",
+    "title": "Python Basics",
+    "titleKh": "មូលដ្ឋានគ្រឹះ Python",
+    "description": "Introduction to Python programming language.",
+    "youtubeVideoId": "kqtD5dpn9C8",
+    "duration": "20:00",
+    "order": 1
+  },
+  {
+    "id": "lesson_011",
+    "courseId": "course_003",
+    "title": "NumPy Fundamentals",
+    "titleKh": "មូលដ្ឋានគ្រឹះ NumPy",
+    "description": "Learn numerical computing with NumPy.",
+    "youtubeVideoId": "QUT1VHiLmmI",
+    "duration": "30:00",
+    "order": 2
+  },
+  {
+    "id": "lesson_012",
+    "courseId": "course_003",
+    "title": "Pandas for Data Analysis",
+    "titleKh": "Pandas សម្រាប់ការវិភាគទិន្នន័យ",
+    "description": "Data manipulation with Pandas library.",
+    "youtubeVideoId": "vmEHCJofslg",
+    "duration": "35:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_013",
+    "courseId": "course_003",
+    "title": "Data Visualization",
+    "titleKh": "ការបង្ហាញទិន្នន័យជារូបភាព",
+    "description": "Create charts and graphs with Matplotlib.",
+    "youtubeVideoId": "3Xc3CA655Y4",
+    "duration": "28:00",
+    "order": 4
+  },
+  {
+    "id": "lesson_014",
+    "courseId": "course_003",
+    "title": "Machine Learning Intro",
+    "titleKh": "ការណែនាំអំពី Machine Learning",
+    "description": "Introduction to machine learning concepts.",
+    "youtubeVideoId": "7eh4d6sabA0",
+    "duration": "40:00",
+    "order": 5
+  },
+  {
+    "id": "lesson_015",
+    "courseId": "course_003",
+    "title": "Building ML Models",
+    "titleKh": "ការបង្កើតគំរូ ML",
+    "description": "Build your first machine learning model.",
+    "youtubeVideoId": "i_LwzRVP7bg",
+    "duration": "45:00",
+    "order": 6
+  },
+  {
+    "id": "lesson_016",
+    "courseId": "course_004",
+    "title": "JavaScript Introduction",
+    "titleKh": "ការណែនាំអំពី JavaScript",
+    "description": "Get started with JavaScript programming.",
+    "youtubeVideoId": "W6NZfCO5SIk",
+    "duration": "20:00",
+    "order": 1
+  },
+  {
+    "id": "lesson_017",
+    "courseId": "course_004",
+    "title": "Variables and Data Types",
+    "titleKh": "អថេរ និងប្រភេទទិន្នន័យ",
+    "description": "Learn about JavaScript variables and data types.",
+    "youtubeVideoId": "9emXNzqCKyg",
+    "duration": "18:00",
+    "order": 2
+  },
+  {
+    "id": "lesson_018",
+    "courseId": "course_004",
+    "title": "Functions and Scope",
+    "titleKh": "មុខងារ និងវិសាលភាព",
+    "description": "Understanding functions and variable scope.",
+    "youtubeVideoId": "xUI5Tsl2JpY",
+    "duration": "25:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_019",
+    "courseId": "course_004",
+    "title": "DOM Manipulation",
+    "titleKh": "ការរៀបចំ DOM",
+    "description": "Interact with HTML elements using JavaScript.",
+    "youtubeVideoId": "y17RuWkWdn8",
+    "duration": "30:00",
+    "order": 4
+  },
+  {
+    "id": "lesson_020",
+    "courseId": "course_004",
+    "title": "Async JavaScript",
+    "titleKh": "JavaScript មិនសមកាល",
+    "description": "Learn promises and async/await patterns.",
+    "youtubeVideoId": "PoRJizFvM7s",
+    "duration": "35:00",
+    "order": 5
+  },
+  {
+    "id": "lesson_021",
+    "courseId": "course_005",
+    "title": "Introduction to UI/UX",
+    "titleKh": "ការណែនាំអំពី UI/UX",
+    "description": "Understanding the basics of UI/UX design.",
+    "youtubeVideoId": "c9Wg6Cb_YlU",
+    "duration": "15:00",
+    "order": 1
+  },
+  {
+    "id": "lesson_022",
+    "courseId": "course_005",
+    "title": "Design Principles",
+    "titleKh": "គោលការណ៍រចនា",
+    "description": "Learn fundamental design principles.",
+    "youtubeVideoId": "yNDgFK2Jj1E",
+    "duration": "20:00",
+    "order": 2
+  },
+  {
+    "id": "lesson_023",
+    "courseId": "course_005",
+    "title": "Color Theory",
+    "titleKh": "ទ្រឹស្តីពណ៌",
+    "description": "Master color theory for digital design.",
+    "youtubeVideoId": "AvgCkHrcj90",
+    "duration": "18:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_024",
+    "courseId": "course_005",
+    "title": "Prototyping",
+    "titleKh": "ការបង្កើតគំរូ",
+    "description": "Create interactive prototypes for your designs.",
+    "youtubeVideoId": "KLuTLF3x9sA",
+    "duration": "25:00",
+    "order": 4
+  },
+  {
+    "id": "lesson_025",
+    "courseId": "course_006",
+    "title": "Introduction to AI & Machine Learning",
+    "titleKh": "ការណែនាំអំពី AI និង Machine Learning",
+    "description": "Understand the fundamentals of artificial intelligence and machine learning.",
+    "youtubeVideoId": "ad79nYk2keg",
+    "duration": "25:00",
+    "order": 1
+  },
+  {
+    "id": "lesson_026",
+    "courseId": "course_006",
+    "title": "Python for Machine Learning",
+    "titleKh": "Python សម្រាប់ Machine Learning",
+    "description": "Set up Python environment and essential libraries for ML.",
+    "youtubeVideoId": "7eh4d6sabA0",
+    "duration": "30:00",
+    "order": 2
+  },
+  {
+    "id": "lesson_027",
+    "courseId": "course_006",
+    "title": "Neural Networks Explained",
+    "titleKh": "ការពន្យល់អំពីបណ្តាញសរសៃប្រសាទ",
+    "description": "Learn how neural networks work and their applications.",
+    "youtubeVideoId": "aircAruvnKk",
+    "duration": "35:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_028",
+    "courseId": "course_006",
+    "title": "Deep Learning Fundamentals",
+    "titleKh": "មូលដ្ឋានគ្រឹះនៃ Deep Learning",
+    "description": "Introduction to deep learning and convolutional neural networks.",
+    "youtubeVideoId": "VyWAvY2CF9c",
+    "duration": "40:00",
+    "order": 4
+  },
+  {
+    "id": "lesson_029",
+    "courseId": "course_006",
+    "title": "Building Your First ML Model",
+    "titleKh": "បង្កើតគំរូ ML ដំបូងរបស់អ្នក",
+    "description": "Hands-on project to build and train a machine learning model.",
+    "youtubeVideoId": "i_LwzRVP7bg",
+    "duration": "45:00",
+    "order": 5
+  },
+  {
+    "id": "lesson_030",
+    "courseId": "course_006",
+    "title": "AI in Production",
+    "titleKh": "AI ក្នុងការផលិត",
+    "description": "Deploy and scale AI models in production environments.",
+    "youtubeVideoId": "tFHeUSJAYbE",
+    "duration": "35:00",
+    "order": 6
+  },
+  {
+    "id": "lesson_031",
+    "courseId": "course_007",
+    "title": "Introduction to Cybersecurity",
+    "titleKh": "ការណែនាំអំពីសន្តិសុខអ៊ីនធឺណិត",
+    "description": "Overview of cybersecurity concepts and career paths.",
+    "youtubeVideoId": "inWWhr5tnEA",
+    "duration": "20:00",
+    "order": 1
+  },
+  {
+    "id": "lesson_032",
+    "courseId": "course_007",
+    "title": "Network Security Basics",
+    "titleKh": "មូលដ្ឋានគ្រឹះសន្តិសុខបណ្តាញ",
+    "description": "Learn about firewalls, VPNs, and network protection.",
+    "youtubeVideoId": "E03gh1huvW4",
+    "duration": "30:00",
+    "order": 2
+  },
+  {
+    "id": "lesson_033",
+    "courseId": "course_007",
+    "title": "Ethical Hacking Fundamentals",
+    "titleKh": "មូលដ្ឋានគ្រឹះ Ethical Hacking",
+    "description": "Introduction to penetration testing and ethical hacking.",
+    "youtubeVideoId": "3Kq1MIfTWCE",
+    "duration": "35:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_034",
+    "courseId": "course_007",
+    "title": "Cryptography Essentials",
+    "titleKh": "មូលដ្ឋានគ្រឹះ Cryptography",
+    "description": "Understanding encryption, hashing, and secure communications.",
+    "youtubeVideoId": "jhXCTbFnK8o",
+    "duration": "25:00",
+    "order": 4
+  },
+  {
+    "id": "lesson_035",
+    "courseId": "course_007",
+    "title": "Security Best Practices",
+    "titleKh": "ការអនុវត្តល្អបំផុតសន្តិសុខ",
+    "description": "Implement security measures and incident response.",
+    "youtubeVideoId": "hXSFdwIOfnE",
+    "duration": "30:00",
+    "order": 5
+  },
+  {
+    "id": "lesson_036",
+    "courseId": "course_008",
+    "title": "Introduction to Data Science",
+    "titleKh": "ការណែនាំអំពីវិទ្យាសាស្ត្រទិន្នន័យ",
+    "description": "Overview of data science workflow and tools.",
+    "youtubeVideoId": "ua-CiDNNj30",
+    "duration": "20:00",
+    "order": 1
+  },
+  {
+    "id": "lesson_037",
+    "courseId": "course_008",
+    "title": "Statistical Analysis",
+    "titleKh": "ការវិភាគស្ថិតិ",
+    "description": "Learn statistical methods for data analysis.",
+    "youtubeVideoId": "xxpc-HPKN28",
+    "duration": "35:00",
+    "order": 2
+  },
+  {
+    "id": "lesson_038",
+    "courseId": "course_008",
+    "title": "Data Visualization with Python",
+    "titleKh": "ការបង្ហាញទិន្នន័យជាមួយ Python",
+    "description": "Create compelling visualizations with matplotlib and seaborn.",
+    "youtubeVideoId": "3Xc3CA655Y4",
+    "duration": "30:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_039",
+    "courseId": "course_008",
+    "title": "Predictive Modeling",
+    "titleKh": "ការបង្កើតគំរូព្យាករណ៍",
+    "description": "Build predictive models using regression and classification.",
+    "youtubeVideoId": "nk2CQITm_eo",
+    "duration": "40:00",
+    "order": 4
+  },
+  {
+    "id": "lesson_040",
+    "courseId": "course_008",
+    "title": "Big Data Analytics",
+    "titleKh": "ការវិភាគទិន្នន័យធំ",
+    "description": "Introduction to big data tools and techniques.",
+    "youtubeVideoId": "bAyrObl7TYE",
+    "duration": "35:00",
+    "order": 5
+  },
+  {
+    "id": "lesson_041",
+    "courseId": "course_008",
+    "title": "Data Science Projects",
+    "titleKh": "គម្រោងវិទ្យាសាស្ត្រទិន្នន័យ",
+    "description": "End-to-end data science project walkthrough.",
+    "youtubeVideoId": "MpF9HENQjDo",
+    "duration": "45:00",
+    "order": 6
+  },
+  {
+    "id": "lesson_042",
+    "courseId": "course_009",
+    "title": "Introduction to Cloud Computing",
+    "titleKh": "ការណែនាំអំពី Cloud Computing",
+    "description": "Understanding cloud concepts and service models.",
+    "youtubeVideoId": "M988_fsOSWo",
+    "duration": "25:00",
+    "order": 1
+  },
+  {
+    "id": "lesson_043",
+    "courseId": "course_009",
+    "title": "AWS Core Services",
+    "titleKh": "សេវាកម្មស្នូល AWS",
+    "description": "Learn EC2, S3, RDS, and other essential AWS services.",
+    "youtubeVideoId": "ulprqHHWlng",
+    "duration": "40:00",
+    "order": 2
+  },
+  {
+    "id": "lesson_044",
+    "courseId": "course_009",
+    "title": "Cloud Architecture Design",
+    "titleKh": "ការរចនាស្ថាបត្យកម្ម Cloud",
+    "description": "Design scalable and resilient cloud architectures.",
+    "youtubeVideoId": "jOhbTAU4OPI",
+    "duration": "35:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_045",
+    "courseId": "course_009",
+    "title": "Cloud Security",
+    "titleKh": "សន្តិសុខ Cloud",
+    "description": "Implement security best practices in cloud environments.",
+    "youtubeVideoId": "Ia-UEYYR44s",
+    "duration": "30:00",
+    "order": 4
+  },
+  {
+    "id": "lesson_046",
+    "courseId": "course_009",
+    "title": "Cloud Migration Strategies",
+    "titleKh": "យុទ្ធសាស្ត្រផ្ទេរ Cloud",
+    "description": "Plan and execute cloud migration projects.",
+    "youtubeVideoId": "8MHn1d-Uxto",
+    "duration": "35:00",
+    "order": 5
+  },
+  {
+    "id": "lesson_047",
+    "courseId": "course_010",
+    "title": "Full-Stack Overview",
+    "titleKh": "ទិដ្ឋភាពទូទៅ Full-Stack",
+    "description": "Understanding the full-stack development landscape.",
+    "youtubeVideoId": "nu_pCVPKzTk",
+    "duration": "20:00",
+    "order": 1
+  },
+  {
+    "id": "lesson_048",
+    "courseId": "course_010",
+    "title": "React.js Fundamentals",
+    "titleKh": "មូលដ្ឋានគ្រឹះ React.js",
+    "description": "Build modern user interfaces with React.",
+    "youtubeVideoId": "Ke90Tje7VS0",
+    "duration": "45:00",
+    "order": 2
+  },
+  {
+    "id": "lesson_049",
+    "courseId": "course_010",
+    "title": "Node.js & Express",
+    "titleKh": "Node.js និង Express",
+    "description": "Create backend APIs with Node.js and Express.",
+    "youtubeVideoId": "Oe421EPjeBE",
+    "duration": "40:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_050",
+    "courseId": "course_010",
+    "title": "Database Integration",
+    "titleKh": "ការរួមបញ្ចូលមូលដ្ឋានទិន្នន័យ",
+    "description": "Work with MongoDB and SQL databases.",
+    "youtubeVideoId": "ExcRbA7fy_A",
+    "duration": "35:00",
+    "order": 4
+  },
+  {
+    "id": "lesson_051",
+    "courseId": "course_010",
+    "title": "Authentication & Authorization",
+    "titleKh": "ការផ្ទៀងផ្ទាត់ និងការអនុញ្ញាត",
+    "description": "Implement secure user authentication systems.",
+    "youtubeVideoId": "mbsmsi7l3r4",
+    "duration": "30:00",
+    "order": 5
+  },
+  {
+    "id": "lesson_052",
+    "courseId": "course_010",
+    "title": "Deployment & DevOps",
+    "titleKh": "ការដាក់ពង្រាយ និង DevOps",
+    "description": "Deploy full-stack applications to production.",
+    "youtubeVideoId": "7S_tz1z_5bA",
+    "duration": "35:00",
+    "order": 6
+  },
+  {
+    "id": "lesson_053",
+    "courseId": "course_011",
+    "title": "Introduction to DevOps",
+    "titleKh": "ការណែនាំអំពី DevOps",
+    "description": "Understanding DevOps culture and practices.",
+    "youtubeVideoId": "Xrgk023l4lI",
+    "duration": "25:00",
+    "order": 1
+  },
+  {
+    "id": "lesson_054",
+    "courseId": "course_011",
+    "title": "Docker Containers",
+    "titleKh": "Docker Containers",
+    "description": "Containerize applications with Docker.",
+    "youtubeVideoId": "fqMOX6JJhGo",
+    "duration": "40:00",
+    "order": 2
+  },
+  {
+    "id": "lesson_055",
+    "courseId": "course_011",
+    "title": "Kubernetes Orchestration",
+    "titleKh": "ការរៀបចំ Kubernetes",
+    "description": "Deploy and manage containers with Kubernetes.",
+    "youtubeVideoId": "X48VuDVv0do",
+    "duration": "50:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_056",
+    "courseId": "course_011",
+    "title": "CI/CD Pipelines",
+    "titleKh": "CI/CD Pipelines",
+    "description": "Build automated deployment pipelines.",
+    "youtubeVideoId": "scEDHsr3APg",
+    "duration": "35:00",
+    "order": 4
+  },
+  {
+    "id": "lesson_057",
+    "courseId": "course_011",
+    "title": "Infrastructure as Code",
+    "titleKh": "ហេដ្ឋារចនាសម្ព័ន្ធជាកូដ",
+    "description": "Manage infrastructure with Terraform and Ansible.",
+    "youtubeVideoId": "SLB_c_ayRMo",
+    "duration": "40:00",
+    "order": 5
+  },
+  {
+    "id": "lesson_058",
+    "courseId": "course_011",
+    "title": "Monitoring & Observability",
+    "titleKh": "ការត្រួតពិនិត្យ និងការសង្កេត",
+    "description": "Implement monitoring with Prometheus and Grafana.",
+    "youtubeVideoId": "9TJx7QTrTyo",
+    "duration": "30:00",
+    "order": 6
+  },
+  {
+    "id": "lesson_059",
+    "courseId": "course_012",
+    "title": "Mobile Development Overview",
+    "titleKh": "ទិដ្ឋភាពទូទៅការអភិវឌ្ឍន៍ទូរស័ព្ទ",
+    "description": "Compare native vs cross-platform development.",
+    "youtubeVideoId": "0-S5a0eXPoc",
+    "duration": "20:00",
+    "order": 1
+  },
+  {
+    "id": "lesson_060",
+    "courseId": "course_012",
+    "title": "React Native Setup",
+    "titleKh": "ការដំឡើង React Native",
+    "description": "Set up React Native development environment.",
+    "youtubeVideoId": "0-S5a0eXPoc",
+    "duration": "25:00",
+    "order": 2
+  },
+  {
+    "id": "lesson_061",
+    "courseId": "course_012",
+    "title": "Building UI Components",
+    "titleKh": "បង្កើតសមាសភាគ UI",
+    "description": "Create reusable UI components in React Native.",
+    "youtubeVideoId": "obH0Po_RdWk",
+    "duration": "35:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_062",
+    "courseId": "course_012",
+    "title": "Navigation & Routing",
+    "titleKh": "ការរុករក និង Routing",
+    "description": "Implement navigation in mobile apps.",
+    "youtubeVideoId": "nQVCkqvU1uE",
+    "duration": "30:00",
+    "order": 4
+  },
+  {
+    "id": "lesson_063",
+    "courseId": "course_012",
+    "title": "Publishing to App Stores",
+    "titleKh": "ការបោះពុម្ពទៅ App Stores",
+    "description": "Deploy apps to iOS App Store and Google Play.",
+    "youtubeVideoId": "oBWBDaqNuws",
+    "duration": "25:00",
+    "order": 5
+  },
+  {
+    "id": "lesson_064",
+    "courseId": "course_013",
+    "title": "Advanced Design Principles",
+    "titleKh": "គោលការណ៍រចនាកម្រិតខ្ពស់",
+    "description": "Deep dive into design theory and psychology.",
+    "youtubeVideoId": "YqQx75OPRa0",
+    "duration": "25:00",
+    "order": 1
+  },
+  {
+    "id": "lesson_065",
+    "courseId": "course_013",
+    "title": "Figma Masterclass",
+    "titleKh": "Figma Masterclass",
+    "description": "Master Figma for professional UI design.",
+    "youtubeVideoId": "FTFaQWZBqQ8",
+    "duration": "45:00",
+    "order": 2
+  },
+  {
+    "id": "lesson_066",
+    "courseId": "course_013",
+    "title": "Design Systems",
+    "titleKh": "ប្រព័ន្ធរចនា",
+    "description": "Create and maintain scalable design systems.",
+    "youtubeVideoId": "EK-pHkc5EL4",
+    "duration": "35:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_067",
+    "courseId": "course_013",
+    "title": "User Research Methods",
+    "titleKh": "វិធីសាស្រ្តស្រាវជ្រាវអ្នកប្រើប្រាស់",
+    "description": "Conduct effective user research and testing.",
+    "youtubeVideoId": "0YL0xoSmyZI",
+    "duration": "30:00",
+    "order": 4
+  },
+  {
+    "id": "lesson_068",
+    "courseId": "course_013",
+    "title": "Portfolio Building",
+    "titleKh": "ការបង្កើត Portfolio",
+    "description": "Build a compelling design portfolio.",
+    "youtubeVideoId": "aOSCZMXpZwY",
+    "duration": "25:00",
+    "order": 5
+  },
+  {
+    "id": "lesson_069",
+    "courseId": "course_014",
+    "title": "Blockchain Fundamentals",
+    "titleKh": "មូលដ្ឋានគ្រឹះ Blockchain",
+    "description": "Understanding blockchain technology and consensus.",
+    "youtubeVideoId": "SSo_EIwHSd4",
+    "duration": "30:00",
+    "order": 1
+  },
+  {
+    "id": "lesson_070",
+    "courseId": "course_014",
+    "title": "Smart Contracts with Solidity",
+    "titleKh": "Smart Contracts ជាមួយ Solidity",
+    "description": "Write and deploy smart contracts on Ethereum.",
+    "youtubeVideoId": "M576WGiDBdQ",
+    "duration": "45:00",
+    "order": 2
+  },
+  {
+    "id": "lesson_071",
+    "courseId": "course_014",
+    "title": "Decentralized Applications",
+    "titleKh": "កម្មវិធីវិមជ្ឈការ",
+    "description": "Build DApps with Web3.js and React.",
+    "youtubeVideoId": "gyMwXuJrbJQ",
+    "duration": "40:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_072",
+    "courseId": "course_014",
+    "title": "Blockchain in Enterprise",
+    "titleKh": "Blockchain ក្នុងសហគ្រាស",
+    "description": "Enterprise blockchain solutions and use cases.",
+    "youtubeVideoId": "qOVAbKKSH10",
+    "duration": "30:00",
+    "order": 4
+  },
+  {
+    "id": "lesson_073",
+    "courseId": "course_014",
+    "title": "NFTs and DeFi",
+    "titleKh": "NFTs និង DeFi",
+    "description": "Explore NFTs and decentralized finance.",
+    "youtubeVideoId": "4dkl5O9LOKg",
+    "duration": "35:00",
+    "order": 5
+  },
+  {
+    "id": "lesson_074",
+    "courseId": "course_015",
+    "title": "IT Project Management Basics",
+    "titleKh": "មូលដ្ឋានគ្រឹះគ្រប់គ្រងគម្រោង IT",
+    "description": "Introduction to project management concepts.",
+    "youtubeVideoId": "uWPIsaYpY7U",
+    "duration": "25:00",
+    "order": 1
+  },
+  {
+    "id": "lesson_075",
+    "courseId": "course_015",
+    "title": "Agile & Scrum",
+    "titleKh": "Agile និង Scrum",
+    "description": "Master Agile methodology and Scrum framework.",
+    "youtubeVideoId": "502ILHjX9EE",
+    "duration": "35:00",
+    "order": 2
+  },
+  {
+    "id": "lesson_076",
+    "courseId": "course_015",
+    "title": "Project Planning & Scheduling",
+    "titleKh": "ការរៀបចំផែនការ និងកាលវិភាគគម្រោង",
+    "description": "Create project plans and manage timelines.",
+    "youtubeVideoId": "H0_yKBitO8M",
+    "duration": "30:00",
+    "order": 3
+  },
+  {
+    "id": "lesson_077",
+    "courseId": "course_015",
+    "title": "Risk Management",
+    "titleKh": "ការគ្រប់គ្រងហានិភ័យ",
+    "description": "Identify and mitigate project risks.",
+    "youtubeVideoId": "PZ5xGGPkIBM",
+    "duration": "25:00",
+    "order": 4
+  },
+  {
+    "id": "lesson_078",
+    "courseId": "course_015",
+    "title": "ITIL Framework",
+    "titleKh": "ក្របខ័ណ្ឌ ITIL",
+    "description": "Understanding ITIL for IT service management.",
+    "youtubeVideoId": "HloUhMK4E6I",
+    "duration": "30:00",
+    "order": 5
+  }
+]
